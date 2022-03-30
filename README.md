@@ -1,3 +1,3 @@
 # snake
 
-This is an implementation of the snake game using inheritance and the Turtle class.
+This is an implementation of the snake game using the Turtle module.
